@@ -1,0 +1,163 @@
+form{
+    width: 500px;
+    padding: 16px;
+    border-radius: 50px;
+    margin: auto;
+    background-color: #F2ECEB;
+    border: 5px solid #7E2B32;
+    
+}
+form input[type="text"]{
+    width: 200px;
+    padding: 3px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #ffb826;
+}
+ form input[type="text1"]{
+    position: relative;
+    top: 10px;
+    left: 400px;
+    width: 50px;
+    padding: 2px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f6;
+}
+form input[type="text2"]{
+    position: relative;
+    top: -25px;
+    left: 350px;
+    width: 100px;
+    padding: 2px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f6;
+}
+form input[type="text3"]{
+    position: relative;
+    top: -30px;
+    left: 350px;
+    width: 100px;
+    padding: 3px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f;
+}
+  form input[type="text7"]{
+    position: relative;
+    top: -30px;
+    left: 150px;
+    width: 300px;
+    padding: 2px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f6;
+}
+form input[type="text6"]{
+    position: relative;
+    top: -30px;
+    left: 100px;
+    width: 350px;
+    padding: 2px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f6;
+}
+form input[type="text5"]{
+    position: relative;
+    top: -30px;
+    left: 200px;
+    width: 250px;
+    padding: 2px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f6;
+}
+form input[type="text10"]{
+    position: relative;
+    top: -30px;
+    left: px;
+    width: 20px;
+    padding: 2px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f6;
+}
+form input[type="text9"]{
+    position: relative;
+    top: 10px;
+    left: px;
+    width: 450px;
+    padding: 2px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f6;
+}
+form input[type="date"]{
+    position: relative;
+    top: -30px;
+    left: -275px;
+    width: 250px;
+    padding: 2px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f6;
+}
+form input[type="imagen"]{
+    position: relative;
+    top: -30px;
+    left: -175px;
+    width: 250px;
+    padding: 2px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #f6f6f6;
+}
+form input[type="submit"]{
+    position: relative;
+    top: -30px;
+    left: 220px;
+    width: 250px;
+    padding: 5px 10px;
+    color: #f6f6f6;
+    border: 1px solid #7E2B32;
+    border-radius: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #7E2B32;
+}
+.sino{
+    position: relative;
+    left: ;
+    right: 3665px;
+    width: 200px;
+    padding: 3px 5px;
+    border: 1px solid #F3E0D4;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #F3E0D4;
+}
